@@ -6,11 +6,7 @@
     <description>Recent content in Posts on Website of Jane Doe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
       <link>/post/markdown-syntax/</link>
@@ -58,7 +54,7 @@ pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
+      <title>Hello R Markdow</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
