@@ -1,9 +1,9 @@
 baseURL = "https://hpblogging.netlify.app/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "HP Blogging"
 theme = "anatole"
-summarylength = 10
+summarylength = 25
 enableEmoji = true
 enableRobotsTXT = true
 
@@ -14,16 +14,16 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "I'm Jane Doe"
-author = "Jane Doe"
-description = "Call me Jane"
-profilePicture = "images/profile.jpg"
+title = "HP Blogging"
+#author = "HPBlogging"
+description = "Happy Husband, Future Father, and Data Scientist"
+profilePicture = "images/mypiccrop.jpg"
 keywords = ""
 favicon = "favicons/"
 customCss = []
 customJs = []
 mainSections = ["post"]
-images = ["images/site-feature-image.png"]
+#images = ["images/site-feature-image.png"]
 # Google Site Verification
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 
@@ -36,22 +36,22 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://linkedin.com/hanselpalencia/"
 
 [[params.socialIcons]]
 icon = "fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://https://github.com/HanselPalencia"
 
-[[params.socialIcons]]
-icon = "fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+#[[params.socialIcons]]
+#icon = "fa-instagram"
+#title = "instagram"
+#url = "https://www.instagram.com/"
 
 [[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "mailto:hanselpalencia@gmail.com"
 
 ## Menu items
 
