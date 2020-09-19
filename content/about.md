@@ -9,4 +9,6 @@ description: My Journey With Life, Love, and Data Science
 title: About The Author
 ---
 
-*My journey with Life, Love, and Data Science*
+*My Journey with Life, Love, and Data Science*
+
+
