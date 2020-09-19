@@ -14,7 +14,7 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "HP Blogging"
+title = "Hansel Palencia"
 #author = "HPBlogging"
 description = "Happy Husband, Future Father, and Data Scientist"
 profilePicture = "images/mypiccrop.jpg"
