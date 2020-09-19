@@ -6,7 +6,7 @@ aliases:
 author: Hansel Palencia
 date: "2020-09-19"
 description: My Journey With Life, Love, and Data Science
-title: About
+title: About The Author
 ---
 
-
+** My journey with Life, Love, and Data Science **
